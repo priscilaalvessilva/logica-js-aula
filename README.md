@@ -1,4 +1,4 @@
-## Desafio JavaS - Projeto Inicial 🖥️
+## JavaScript - Projeto Inicial 🖥️
 
 🚀 Descrição
 Este projeto foi desenvolvido como parte do curso de lógica de JavaScript, marcando meus primeiros passos com a linguagem. A ideia foi explorar conceitos iniciais de programação com JavaScript, combinando-os com HTML e CSS para criar uma aplicação básica e funcional.
